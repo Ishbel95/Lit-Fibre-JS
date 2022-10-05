@@ -98,7 +98,7 @@ const calculateBasket = (products) => {
   let totalPromotionPrice = 0;
 
   // EXTENSION TASK:
-  // let isInPromotion = false;
+
   // use duplicatedValue to get correct promotions for each order
   function getPromotionPrice(duplicatedValue) {
     if (duplicatedValue === 0) {
